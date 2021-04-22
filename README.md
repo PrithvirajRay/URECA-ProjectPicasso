@@ -16,6 +16,4 @@ From MATLAB command line:
   drawPaths(Rob)   grabs a frame from the webcam and attempts to draw a copy
   
 
-
-This project has been tested using Visual Studio 2013 and MATLAB r2014b. Visual Studio will need to be set up to use OpenCV libraries and
-able to build a project with a .mex target. This is a work in progress: comments and constructive criticism are welcome!
+Visual Studio will need to be set up to use OpenCV libraries and able to build a project with a .mex target. This is a work in progress: comments and constructive criticism are welcome!
